@@ -2,7 +2,7 @@
 
 This code is used to reconstruct water-tight and genus-0 surface from points. 
 See "http://intlpress.com/site/pub/pages/journals/items/cis/content/vols/0017/0002/a002/index.html" for speicific details.
-To implement it, VTK is required. 
+To implement it, VTK (version >= 6.2) is required. 
 Some parts of the code are refereced by CGAL.
 For better performance, rearrange the order of '.xyz' file randomly. You could use the 'xyz_random.m' to achieve this goal.
 

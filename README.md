@@ -8,10 +8,10 @@ Parts of the codes are extracted from CGAL (https://www.cgal.org/).
 <h3>Run</h3>
 
 ```
-SurfaceReconstruction.exe data/point_cloud.xyz T
+SurfaceReconstruction.exe data/point_cloud.xyz 
 ```
 
-In release model, the command line is written like this "SurfaceReconstruction.exe data/193_r.xyz T", where 'T' denotes inserting isolated vertices, while 'F' denotes ignoring isolated vertices, and 'data/193_r.xyz' is the speicific file path. The reconstructed results will be outputted in '.stl' format, and press 's' button , a screenshot image of the model can be acquired.
+The reconstructed result will be saved in a '.stl' file. Press 's' can save a screenshot image.
 
 
 

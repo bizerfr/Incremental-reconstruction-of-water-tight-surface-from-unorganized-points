@@ -11,7 +11,7 @@ Parts of the codes are extracted from CGAL (https://www.cgal.org/).
 SurfaceReconstruction.exe data/point_cloud.xyz 
 ```
 
-The reconstructed result will be saved in a '.stl' file. Press 's' can save a screenshot image.
+The reconstructed result will be saved in a '.stl' file. Pressing 's' can save a screenshot image.
 
 
 
